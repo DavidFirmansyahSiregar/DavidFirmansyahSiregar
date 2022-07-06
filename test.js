@@ -1,18 +1,12 @@
-// let x = 5;
-// console.log(x+x);
+// var a = 5;
+// {var a = 10;}
+// console.log(a);
 
-// let hope = "sad";
-// console.log(hope)
-// hope = "happy"
-// console.log(hope)
+// let theweather
+// if(hujan){console.log("berteduh");}
+// else if(cerah){console.log("jalan-jalan");}
+// else if(mendung){console.log("bawa payung");}
+// else{console.log("tidur aja");}
 
-// var time1 = "pagi";
-// const activity = "makan";
-// console.log(activity + time1);
-
-// let number = 11;
-// while(number<=12){console.log(number)};
-// number = number + 1;
-
-console.log(-2 < -1);
-console.log(2 > 1);
+// let number = 10;
+// while(number=>8){console.log(number);number = number + 1;}
